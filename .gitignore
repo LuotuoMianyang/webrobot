@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+module_webrobot.xml
+out/
+webRobot.iml
+webrobot.properties
+webrobot.xml
